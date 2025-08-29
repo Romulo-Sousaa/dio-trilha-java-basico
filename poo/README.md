@@ -1,1 +1,1 @@
-![Modelagem e Diagramação de um Componente iPhone](../../implementacaoIphone.svg)
+![Modelagem e Diagramação de um Componente iPhone](diagramas/inplementacaoIphone.png)
